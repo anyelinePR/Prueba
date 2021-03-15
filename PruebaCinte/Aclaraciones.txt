@@ -1,0 +1,7 @@
+--Ángela Pardo
+
+Instrucciones:
+
+1. Ejecutar los scripts tanto para oracle como sql
+2. En el documento word se encuentra las evidencias de ejecución y las tablas que se utilizan
+3. Ejecución de la ETL 
